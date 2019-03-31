@@ -13,6 +13,7 @@
 
 <h2><b> 成品: </b></h2>
 
+
 # 軟體配置
 * Raspbian jessie
 * SimpleCV
@@ -21,5 +22,6 @@
 
 懶人餵食器-MCS平台網址:
 https://mcs.mediatek.com/public/devices/DKbFfFn9
+
 
 
