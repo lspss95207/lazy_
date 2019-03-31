@@ -1,6 +1,7 @@
 # <b>全自動霹靂卡霹靂拉拉懶人餵食器 lazy_food_catapult</b>
 
 一個裝有網路攝影機的食物投食機，當偵測到人臉時會計算人臉的距離與高度，調整仰角將食物投射到嘴巴中，是懶人的終極神器。
+
 配合聯發科MCS雲端平台，及時將數據與照片上傳，也能控制電源開關，未來也會加上遙控功能。
 
 # <b>硬體裝置</b>
@@ -13,7 +14,10 @@
 
 <h2><b> 成品: </b></h2>
 <img src="https://github.com/lspss95207/lazy_food_catapult/blob/master/%E9%A3%9F%E7%89%A9%E6%8A%95%E9%A3%9F%E6%A9%9F.png"/>
-<video src="https://github.com/lspss95207/lazy_food_catapult/blob/master/Demo_video.mp4" width="auto" height="auto"/>
+<video width="320" height="240" controls>
+  <source src="https://github.com/lspss95207/lazy_food_catapult/blob/master/Demo_video.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 # 軟體配置
 * Raspbian jessie
