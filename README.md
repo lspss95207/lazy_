@@ -12,7 +12,7 @@
 * 樂高組件
 
 <h2><b> 成品: </b></h2>
-![image](https://github.com/lspss95207/lazy_food_catapult/blob/master/%E9%A3%9F%E7%89%A9%E6%8A%95%E9%A3%9F%E6%A9%9F.png)
+<img src="https://github.com/lspss95207/lazy_food_catapult/blob/master/%E9%A3%9F%E7%89%A9%E6%8A%95%E9%A3%9F%E6%A9%9F.png">
 
 # 軟體配置
 * Raspbian jessie
