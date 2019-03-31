@@ -12,17 +12,16 @@
 * 網路攝影機 * 1
 * 樂高組件
 
-<h2><b> 成品: </b></h2>
-<img src="https://github.com/lspss95207/lazy_food_catapult/blob/master/%E9%A3%9F%E7%89%A9%E6%8A%95%E9%A3%9F%E6%A9%9F.png"/>
-<video width="320" height="240" controls>
-  <source src="https://github.com/lspss95207/lazy_food_catapult/blob/master/Demo_video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
 # 軟體配置
 * Raspbian jessie
 * SimpleCV
 * Python2
+
+
+# 成品 
+<img src="https://github.com/lspss95207/lazy_food_catapult/blob/master/%E9%A3%9F%E7%89%A9%E6%8A%95%E9%A3%9F%E6%A9%9F.png"/>
+
+
 
 # MCS - MediaTek Cloud Sandbox
 懶人餵食器-MCS平台網址:
