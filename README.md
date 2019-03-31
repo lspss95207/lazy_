@@ -1,4 +1,4 @@
-# lazy_food_catapult
+# 全自動霹靂卡霹靂拉拉懶人餵食器 lazy_food_catapult
 全自動霹靂卡霹靂拉拉懶人餵食器(Lazy Food Catapult)
 
 一個裝有網路攝影機的食物投食機，當偵測到人臉時會計算人臉的距離與高度，調整仰角將食物投射到嘴巴中，是懶人的終極神器。
